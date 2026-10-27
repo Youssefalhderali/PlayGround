@@ -1,0 +1,40 @@
+{
+  "total": 2147,
+  "counts": {
+    "itel": 56,
+    "Nokia": 92,
+    "Realme": 170,
+    "Xiaomi": 139,
+    "Honor": 160,
+    "OPPO": 217,
+    "OnePlus": 54,
+    "ASUS": 6,
+    "Motorola": 160,
+    "Huawei": 135,
+    "Samsung": 133,
+    "Google Pixel": 25,
+    "Apple iPhone": 26,
+    "Vivo": 388,
+    "iQOO": 3,
+    "Infinix": 48,
+    "Nothing": 9,
+    "POCO": 44,
+    "Redmi": 92,
+    "Meizu": 4,
+    "TCL": 5,
+    "ZTE": 47,
+    "TECNO": 56,
+    "Lenovo": 3,
+    "Nubia": 4,
+    "Sony": 5,
+    "Blackview": 1,
+    "Ulefone": 1,
+    "LG": 64
+  },
+  "generated": "2026-10-27T16:35:18.063Z",
+  "sources": [
+    "GSMArena via sksalapur/gsmarena-scraper (MIT)",
+    "GSMArena via rinehartwang1979/phone-specs-api",
+    "GSMArena via foykes/gsm-arena-dataset"
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "generatedAt": "2026-10-27T16:43:39.821Z",
+  "source": "ipsw.me device catalogue",
+  "sourceUrl": "https://ipsw.me/",
+  "count": 67,
+  "devices": [
+    {
+      "name": "iPhone 18 Pro Max",
+      "identifier": "iPhone19,7",
+      "platform": "t8160",
+      "board": "V64sAP"
+    },
+    {
+      "name": "iPhone Duo",
+      "identifier": "iPhone19,4",
+      "platform": "t8160",
+      "board": "V68AP"
+    },
+    {
+      "name": "iPhone 18 Pro Max (US)",
+      "identifier": "iPhone19,3",
+      "platform": "t8160",
+      "board": "V64AP"
+    },
+    {
+      "name": "iPhone 18 Pro",
+      "identifier": "iPhone19,2",
+      "platform": "t8160",
+      "board": "V63AP"
+    },
+    {
+      "name": "iPhone 17e",
+      "identifier": "iPhone18,5",
+      "platform": "t8150",
+      "board": "V159AP"
+    },
+    {
+      "name": "iPhone Air",
+      "identifier": "iPhone18,4",
+      "platform": "t8150",
+      "board": "D23AP"
+    },
+    {
+      "name": "iPhone 17",
+      "identifier": "iPhone18,3",
+      "platform": "t8150",
+      "board": "V57AP"
+    },
+    {
+      "name": "iPhone 17 Pro Max",
+      "identifier": "iPhone18,2",
+      "platform": "t8150",
+      "board": "V54AP"
+    },
+    {
+      "name": "iPhone 17 Pro",
+      "identifier": "iPhone18,1",
+      "platform": "t8150",
+      "board": "V53AP"
+    },
+    {
+      "name": "iPhone 16e",
+      "identifier": "iPhone17,5",
+      "platform": "t8140",
+      "board": "V59AP"
+    },
+    {
+      "name": "iPhone 16 Plus",
+      "identifier": "iPhone17,4",
+      "platform": "t8140",
+      "board": "D48AP"
+    },
+    {
+      "name": "iPhone 16",
+      "identifier": "iPhone17,3",
+      "platform": "t8140",
+      "board": "D47AP"
+    },
+    {
+      "name": "iPhone 16 Pro Max",
+      "identifier": "iPhone17,2",
+      "platform": "t8140",
+      "board": "D94AP"
+    },
+    {
+      "name": "iPhone 16 Pro",
+      "identifier": "iPhone17,1",
+      "platform": "t8140",
+      "board": "D93AP"
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "identifier": "iPhone16,2",
+      "platform": "",
+      "board": "D84AP"
+    },
+    {
+      "name": "iPhone 15 Pro",
+      "identifier": "iPhone16,1",
+      "platform": "",
+      "board": "D83AP"
+    },
+    {
+      "name": "iPhone 15 Plus",
+      "identifier": "iPhone15,5",
+      "platform": "",
+      "board": "D38AP"
+    },
+    {
+      "name": "iPhone 15",
+      "identifier": "iPhone15,4",
+      "platform": "",
+      "board": "D37AP"
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "identifier": "iPhone15,3",
+      "platform": "",
+      "board": "D74AP"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "identifier": "iPhone15,2",
+      "platform": "",
+      "board": "D73AP"
+    },
+    {
+      "name": "iPhone 14 Plus",
+      "identifier": "iPhone14,8",
+      "platform": "",
+      "board": "D28AP"
+    },
+    {
+      "name": "iPhone 14",
+      "identifier": "iPhone14,7",
+      "platform": "",
+      "board": "D27AP"
+    },
+    {
+      "name": "iPhone SE (3rd generation)",
+      "identifier": "iPhone14,6",
+      "platform": "t8110",
+      "board": "D49AP"
+    },
+    {
+      "name": "iPhone 13",
+      "identifier": "iPhone14,5",
+      "platform": "",
+      "board": "D17AP"
+    },
+    {
+      "name": "iPhone 13 mini",
+      "identifier": "iPhone14,4",
+      "platform": "",
+      "board": "D16AP"
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "identifier": "iPhone14,3",
+      "platform": "",
+      "board": "D64AP"
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "identifier": "iPhone14,2",
+      "platform": "",
+      "board": "D63AP"
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "identifier": "iPhone13,4",
+      "platform": "t8101",
+      "board": "D54pAP"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "identifier": "iPhone13,3",
+      "platform": "t8101",
+      "board": "D53pAP"
+    },
+    {
+      "name": "iPhone 12",
+      "identifier": "iPhone13,2",
+      "platform": "t8101",
+      "board": "D53gAP"
+    },
+    {
+      "name": "iPhone 12 mini",
+      "identifier": "iPhone13,1",
+      "platform": "t8101",
+      "board": "D52gAP"
+    },
+    {
+      "name": "iPhone SE (2020)",
+      "identifier": "iPhone12,8",
+      "platform": "t8030",
+      "board": "D79AP"
+    },
+    {
+      "name": "iPhone 11 Pro Max",
+      "identifier": "iPhone12,5",
+      "platform": "t8030",
+      "board": "D431AP"
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "identifier": "iPhone12,3",
+      "platform": "t8030",
+      "board": "D421AP"
+    },
+    {
+      "name": "iPhone 11",
+      "identifier": "iPhone12,1",
+      "platform": "t8030",
+      "board": "N104AP"
+    },
+    {
+      "name": "iPhone XR",
+      "identifier": "iPhone11,8",
+      "platform": "t8020",
+      "board": "N841AP"
+    },
+    {
+      "name": "iPhone XS Max",
+      "identifier": "iPhone11,6",
+      "platform": "t8020",
+      "board": "D331pAP"
+    },
+    {
+      "name": "iPhone XS Max (China)",
+      "identifier": "iPhone11,4",
+      "platform": "t8020",
+      "board": "D331AP"
+    },
+    {
+      "name": "iPhone XS",
+      "identifier": "iPhone11,2",
+      "platform": "t8020",
+      "board": "D321AP"
+    },
+    {
+      "name": "iPhone X (GSM)",
+      "identifier": "iPhone10,6",
+      "platform": "t8015",
+      "board": "D221AP"
+    },
+    {
+      "name": "iPhone 8 Plus (GSM)",
+      "identifier": "iPhone10,5",
+      "platform": "t8015",
+      "board": "D211AP"
+    },
+    {
+      "name": "iPhone 8 (GSM)",
+      "identifier": "iPhone10,4",
+      "platform": "t8015",
+      "board": "D201AP"
+    },
+    {
+      "name": "iPhone X (Global)",
+      "identifier": "iPhone10,3",
+      "platform": "t8015",
+      "board": "D22AP"
+    },
+    {
+      "name": "iPhone 8 Plus (Global)",
+      "identifier": "iPhone10,2",
+      "platform": "t8015",
+      "board": "D21AP"
+    },
+    {
+      "name": "iPhone 8 (Global)",
+      "identifier": "iPhone10,1",
+      "platform": "t8015",
+      "board": "D20AP"
+    },
+    {
+      "name": "iPhone 7 Plus (GSM)",
+      "identifier": "iPhone9,4",
+      "platform": "t8010",
+      "board": "D111AP"
+    },
+    {
+      "name": "iPhone 7 (GSM)",
+      "identifier": "iPhone9,3",
+      "platform": "t8010",
+      "board": "D101AP"
+    },
+    {
+      "name": "iPhone 7 Plus (Global)",
+      "identifier": "iPhone9,2",
+      "platform": "t8010",
+      "board": "D11AP"
+    },
+    {
+      "name": "iPhone 7 (Global)",
+      "identifier": "iPhone9,1",
+      "platform": "t8010",
+      "board": "D10AP"
+    },
+    {
+      "name": "iPhone SE",
+      "identifier": "iPhone8,4",
+      "platform": "s8003",
+      "board": "N69AP"
+    },
+    {
+      "name": "iPhone 6s+",
+      "identifier": "iPhone8,2",
+      "platform": "s8000",
+      "board": "N66AP"
+    },
+    {
+      "name": "iPhone 6s",
+      "identifier": "iPhone8,1",
+      "platform": "s8000",
+      "board": "N71AP"
+    },
+    {
+      "name": "iPhone 6",
+      "identifier": "iPhone7,2",
+      "platform": "t7000",
+      "board": "N61AP"
+    },
+    {
+      "name": "iPhone 6+",
+      "identifier": "iPhone7,1",
+      "platform": "t7000",
+      "board": "N56AP"
+    },
+    {
+      "name": "iPhone 5s (Global)",
+      "identifier": "iPhone6,2",
+      "platform": "s5l8960x",
+      "board": "N53AP"
+    },
+    {
+      "name": "iPhone 5s (GSM)",
+      "identifier": "iPhone6,1",
+      "platform": "s5l8960x",
+      "board": "N51AP"
+    },
+    {
+      "name": "iPhone 5c (Global)",
+      "identifier": "iPhone5,4",
+      "platform": "s5l8950x",
+      "board": "N49AP"
+    },
+    {
+      "name": "iPhone 5c (GSM)",
+      "identifier": "iPhone5,3",
+      "platform": "s5l8950x",
+      "board": "N48AP"
+    },
+    {
+      "name": "iPhone 5 (Global)",
+      "identifier": "iPhone5,2",
+      "platform": "s5l8950x",
+      "board": "N42AP"
+    },
+    {
+      "name": "iPhone 5 (GSM)",
+      "identifier": "iPhone5,1",
+      "platform": "s5l8950x",
+      "board": "N41AP"
+    },
+    {
+      "name": "iPhone 4s",
+      "identifier": "iPhone4,1",
+      "platform": "s5l8940x",
+      "board": "n94ap"
+    },
+    {
+      "name": "iPhone 4 (CDMA)",
+      "identifier": "iPhone3,3",
+      "platform": "s5l8930x",
+      "board": "n92ap"
+    },
+    {
+      "name": "iPhone 4 (GSM / 2012)",
+      "identifier": "iPhone3,2",
+      "platform": "s5l8930x",
+      "board": "n90bap"
+    },
+    {
+      "name": "iPhone 4 (GSM)",
+      "identifier": "iPhone3,1",
+      "platform": "s5l8930x",
+      "board": "n90ap"
+    },
+    {
+      "name": "iPhone 3GS",
+      "identifier": "iPhone2,1",
+      "platform": "s5l8920x",
+      "board": "n88ap"
+    },
+    {
+      "name": "iPhone 3G",
+      "identifier": "iPhone1,2",
+      "platform": "s5l8900x",
+      "board": "n82ap"
+    },
+    {
+      "name": "iPhone 2G",
+      "identifier": "iPhone1,1",
+      "platform": "s5l8900x",
+      "board": "m68ap"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Samsung S9110",
+  "url": "https://www.gsmarena.com/samsung_s9110-2885.php",
+  "scraped_at": "2025-08-08 09:12:24",
+  "specifications": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10",
+    "Announced": "2009, July. Released 2009, November",
+    "Status": "Discontinued",
+    "Dimensions": "57.5 x 41.1 x 12 mm (2.26 x 1.62 x 0.47 in)",
+    "Weight": "91.0 g (3.21 oz)",
+    "SIM": "Mini-SIM",
+    "Type": "Li-Ion 630 mAh, non-removable",
+    "Size": "1.76 inches",
+    "Resolution": "176 x 220 pixels (~160 ppi density)",
+    "Protection": "Scratch-resistant glass, oleophobic coating",
+    "OS": "Proprietary OS",
+    "Card slot": "No",
+    "Internal": "40MB",
+    "": "MP3 player\r\nDictaphone\r\nCurrency Converter\r\nVoice recognition\r\nVoice memo\r\nPredictive text input",
+    "Loudspeaker": "Yes",
+    "3.5mm jack": "No",
+    "WLAN": "No",
+    "Bluetooth": "2.1",
+    "Positioning": "No",
+    "Radio": "No",
+    "USB": "No",
+    "Sensors": "",
+    "Browser": "WAP 1.2.1/xHTML",
+    "Colors": "Silver"
+  },
+  "overview": "Samsung S9110",
+  "images": [
+    "https://fdn2.gsmarena.com/vv/bigpic/samsung-s9110.jpg",
+    "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a56-.jpg",
+    "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-ultra-sm-s938.jpg",
+    "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a17-5g.jpg",
+    "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-fe-r1.jpg"
+  ]
+}

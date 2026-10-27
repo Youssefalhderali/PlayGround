@@ -1,0 +1,8 @@
+{
+  "app": "Brxvih",
+  "schema": 1,
+  "updatedAt": null,
+  "note": "Public price seed. Managed from the local dashboard, exported here, and deployed with the site. Empty until a verified supplier offer is added.",
+  "suppliers": [],
+  "prices": []
+}

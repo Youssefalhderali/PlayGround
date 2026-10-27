@@ -1,0 +1,2198 @@
+[
+ {
+  "path": "samsung_galaxy_s25_ultra-13322.php",
+  "name": "Galaxy S25 Ultra",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_s25_fe_5g-14042.php",
+  "name": "Galaxy S25 FE",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_s24_ultra-12771.php",
+  "name": "Galaxy S24 Ultra",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_s24_fe-13262.php",
+  "name": "Galaxy S24 FE",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_s23_ultra-12024.php",
+  "name": "Galaxy S23 Ultra",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_z_fold6-13147.php",
+  "name": "Galaxy Z Fold6",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_z_flip6-13192.php",
+  "name": "Galaxy Z Flip6",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a56-13603.php",
+  "name": "Galaxy A56",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a36-13497.php",
+  "name": "Galaxy A36",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a26-13679.php",
+  "name": "Galaxy A26",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a16-13383.php",
+  "name": "Galaxy A16",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_m56_5g-13801.php",
+  "name": "Galaxy M56",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_m16-13680.php",
+  "name": "Galaxy M16",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_s21_fe_5g-10954.php",
+  "name": "Galaxy S21 FE 5G",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a54-12070.php",
+  "name": "Galaxy A54",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_f70_5g-15014.php",
+  "name": "Galaxy F70",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_f08-14988.php",
+  "name": "Galaxy F08",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_m08-14987.php",
+  "name": "Galaxy M08",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a18-14941.php",
+  "name": "Galaxy A18 4G",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "samsung_galaxy_a08-14938.php",
+  "name": "Galaxy A08 4G",
+  "source": "samsung",
+  "brand": "Samsung"
+ },
+ {
+  "path": "xiaomi_redmi_note_14_pro+_5g_(global)-13612.php",
+  "name": "Redmi Note 14 Pro+ 5G",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_14_pro_5g_(global)-13613.php",
+  "name": "Redmi Note 14 Pro 5G",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_14s-13730.php",
+  "name": "Redmi Note 14S",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_13_pro_4g-12749.php",
+  "name": "Redmi Note 13 Pro 4G",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_14c_5g-13595.php",
+  "name": "Redmi 14C 5G",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_13c_5g-12726.php",
+  "name": "Redmi 13C 5G",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_a5_4g-13737.php",
+  "name": "Redmi A5",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_poco_x7_pro-13582.php",
+  "name": "Poco X7 Pro",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_x6_pro-12717.php",
+  "name": "Poco X6 Pro",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_f6_pro-12992.php",
+  "name": "Poco F6 Pro",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_f5_pro-12257.php",
+  "name": "Poco F5 Pro",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_m7_pro_5g-13570.php",
+  "name": "Poco M7 Pro 5G",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_c75_5g-13571.php",
+  "name": "Poco C75 5G",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_redmi_note_13r-13011.php",
+  "name": "Redmi Note 13R",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_12_5g-12446.php",
+  "name": "Redmi 12 5G",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_k100_5g-15018.php",
+  "name": "Redmi K100",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_17_pro_refresh_5g_(china-15042.php",
+  "name": "Redmi Note 17 Pro Refresh (China)",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_17_pro_max_5g-14845.php",
+  "name": "Redmi Note 17 Pro Max",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_17_pro_5g-14844.php",
+  "name": "Redmi Note 17 Pro",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_redmi_note_17_5g-14846.php",
+  "name": "Redmi Note 17",
+  "source": "xiaomi",
+  "brand": "Redmi"
+ },
+ {
+  "path": "xiaomi_poco_x8s_5g-15038.php",
+  "name": "Poco X8s",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_c95_pro-14933.php",
+  "name": "Poco C95 Pro",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_x8_power_5g-14912.php",
+  "name": "Poco X8 Power",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_x8_5g-14911.php",
+  "name": "Poco X8",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_f9_ultra_5g-14876.php",
+  "name": "Poco F9 Ultra",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_f9_pro_5g-14877.php",
+  "name": "Poco F9 Pro",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_m8x_5g-14879.php",
+  "name": "Poco M8x",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_poco_m8_power_5g-14804.php",
+  "name": "Poco M8 Power",
+  "source": "xiaomi",
+  "brand": "POCO"
+ },
+ {
+  "path": "xiaomi_18_pro_max_5g-14958.php",
+  "name": "18 Pro Max",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_18_pro_5g-14959.php",
+  "name": "18 Pro",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_18_fold_5g-14931.php",
+  "name": "18 Fold",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17t_pro_5g-14651.php",
+  "name": "17T Pro",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17t_5g-14652.php",
+  "name": "17T",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17_max_5g-14667.php",
+  "name": "17 Max",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17_ultra_5g-14380.php",
+  "name": "17 Ultra",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17_5g-14134.php",
+  "name": "17",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17_ultra_5g_(china)-14516.php",
+  "name": "17 Ultra (China)",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_black_shark_gs3_ultra-14309.php",
+  "name": "Black Shark GS3 Ultra",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_black_shark_gs3-14512.php",
+  "name": "Black Shark GS3",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "xiaomi_17_pro_max_5g-14181.php",
+  "name": "17 Pro Max",
+  "source": "xiaomi",
+  "brand": "Xiaomi"
+ },
+ {
+  "path": "huawei_pura_70_ultra-12940.php",
+  "name": "Pura 70 Ultra",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_pura_70_pro+-12941.php",
+  "name": "Pura 70 Pro+",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_60_pro+-12549.php",
+  "name": "Mate 60 Pro+",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_x6-13521.php",
+  "name": "Mate X6",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_nova_13i-13606.php",
+  "name": "nova 13i",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_nova_12i-12882.php",
+  "name": "nova 12i",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_p60_pro-12172.php",
+  "name": "P60 Pro",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_p50_pro-11029.php",
+  "name": "P50 Pro",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_40_pro_4g-10985.php",
+  "name": "Mate 40 Pro 4G",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_nova_9_se_5g-11490.php",
+  "name": "nova 9 SE 5G",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_90_rs_ultimate_5g-14985.php",
+  "name": "Mate 90 RS Ultimate",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_90_pro_max_5g-14982.php",
+  "name": "Mate 90 Pro Max",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_90_pro_5g-14983.php",
+  "name": "Mate 90 Pro",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_90_5g-14984.php",
+  "name": "Mate 90",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_mate_xt_2_ultimate_5g-14929.php",
+  "name": "Mate XT 2 Ultimate",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_pura_x_view-14887.php",
+  "name": "Pura X View",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_nova_16s_pro_5g-14922.php",
+  "name": "nova 16s Pro",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_nova_16s_5g-14923.php",
+  "name": "nova 16s",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_nova_16_se-14861.php",
+  "name": "nova 16 SE",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "huawei_pura_90s_pro_max_5g-14794.php",
+  "name": "Pura 90s Pro Max",
+  "source": "huawei",
+  "brand": "Huawei"
+ },
+ {
+  "path": "honor_magic_v3-13202.php",
+  "name": "Magic V3",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_win_turbo2_5g-15019.php",
+  "name": "Win Turbo2",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_win2_5g-15020.php",
+  "name": "Win2",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_win2_rt_5g-15021.php",
+  "name": "Win2 RT",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_magic9_pro_max_5g-14940.php",
+  "name": "Magic9 Pro Max",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_magic9_super_5g-14969.php",
+  "name": "Magic9 Super",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_magic9_5g-14970.php",
+  "name": "Magic9",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_play20c-14994.php",
+  "name": "Play20C",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x5d_s-14993.php",
+  "name": "X5d s",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x9e_pro_5g-14949.php",
+  "name": "X9e Pro",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_play11_5g-14944.php",
+  "name": "Play11",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_play20a-14897.php",
+  "name": "Play20A",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x7e_plus-14896.php",
+  "name": "X7e Plus 4G",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_turbo_5g-14881.php",
+  "name": "Turbo",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_robot_phone_5g-14827.php",
+  "name": "Robot Phone",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x6e-14843.php",
+  "name": "X6e",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x7e_plus_5g-14834.php",
+  "name": "X7e Plus",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x80_pro_max_5g-14718.php",
+  "name": "X80 Pro Max",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_600_smart_5g-14738.php",
+  "name": "600 Smart",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "honor_x70_pro_max_5g-14729.php",
+  "name": "X70 Pro Max",
+  "source": "honor",
+  "brand": "Honor"
+ },
+ {
+  "path": "oppo_find_x8_pro-13467.php",
+  "name": "Find X8 Pro",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_find_x8_ultra-13753.php",
+  "name": "Find X8 Ultra",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_find_n5-13659.php",
+  "name": "Find N5",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a79-12636.php",
+  "name": "A79",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a78_4g-12387.php",
+  "name": "A78 4G",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a60-12964.php",
+  "name": "A60",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a5_pro_4g-13738.php",
+  "name": "A5 Pro 4G",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a3_pro-13160.php",
+  "name": "A3 Pro",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a18-12591.php",
+  "name": "A18",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_k15s_5g-14995.php",
+  "name": "K15s",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_k15x_5g-14996.php",
+  "name": "K15x",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_f35_pro_5g-14859.php",
+  "name": "F35 Pro",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_f35_5g-14990.php",
+  "name": "F35",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_find_x10_pro_max-14939.php",
+  "name": "Find X10 Pro Max",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_find_x10-14953.php",
+  "name": "Find X10",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_find_x10_e-14954.php",
+  "name": "Find X10 E",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_k14_plus_5g-14963.php",
+  "name": "K14 Plus",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_k14_lite-14942.php",
+  "name": "K14 Lite",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a7_pro_5g-14928.php",
+  "name": "A7 Pro",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "oppo_a7_pro_max_5g-14828.php",
+  "name": "A7 Pro Max",
+  "source": "oppo",
+  "brand": "OPPO"
+ },
+ {
+  "path": "vivo_x200_pro_mini-13434.php",
+  "name": "X200 Pro mini",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_x200t_5g-14366.php",
+  "name": "X200T",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_v50e_5g-13768.php",
+  "name": "V50e",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_v40_lite_4g_(idn)-13360.php",
+  "name": "V40 Lite 4G (IDN)",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_v30e-12971.php",
+  "name": "V30e",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_y28s-13171.php",
+  "name": "Y28s",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_y19s_5g-14276.php",
+  "name": "Y19s",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_y18t-13492.php",
+  "name": "Y18t",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_s19_pro-13087.php",
+  "name": "S19 Pro",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_t3_ultra-13321.php",
+  "name": "T3 Ultra",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_y600_5g-15030.php",
+  "name": "Y600",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_y32_(2026)-14992.php",
+  "name": "Y32",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_v80_5g-14989.php",
+  "name": "V80",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_s2_fe_5g-14962.php",
+  "name": "S2 FE",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_iqoo_16_5g-14976.php",
+  "name": "iQOO 16",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_y600i_5g-14964.php",
+  "name": "Y600i",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_x500_pro_max_5g-14782.php",
+  "name": "X500 Pro Max",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_x500_pro_5g-14950.php",
+  "name": "X500 Pro",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_x500_5g-14951.php",
+  "name": "X500",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "vivo_v80_lite_5g-14892.php",
+  "name": "V80 Lite",
+  "source": "vivo",
+  "brand": "Vivo"
+ },
+ {
+  "path": "realme_gt_7_pro-13470.php",
+  "name": "GT 7 Pro",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_gt_6-13103.php",
+  "name": "GT 6",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c01-15025.php",
+  "name": "C01",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_p4s_lite-14991.php",
+  "name": "P4s Lite",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c100i_(india)-14900.php",
+  "name": "C100i (India)",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_p4s_5g-14885.php",
+  "name": "P4s",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_16x_5g-14871.php",
+  "name": "16x",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_narzo_100x_5g-14787.php",
+  "name": "Narzo 100x",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_p4x-14744.php",
+  "name": "P4x 4G",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_p4r_5g-14706.php",
+  "name": "P4R",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_16t_5g-14674.php",
+  "name": "16T",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c100x-14628.php",
+  "name": "C100x",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c100i-14655.php",
+  "name": "C100i",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_narzo_100_lite_5g-14593.php",
+  "name": "Narzo 100 Lite",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c100-14586.php",
+  "name": "C100 4G",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c100_5g-14585.php",
+  "name": "C100",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_p4_lite_5g-14545.php",
+  "name": "P4 Lite",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_note_80-14537.php",
+  "name": "Note 80",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_c83_5g-14532.php",
+  "name": "C83",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "realme_narzo_power_5g-14515.php",
+  "name": "Narzo Power",
+  "source": "realme",
+  "brand": "Realme"
+ },
+ {
+  "path": "oneplus_16_5g-14974.php",
+  "name": "16",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_n6_lite-14952.php",
+  "name": "N6 Lite",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_n6x-14849.php",
+  "name": "N6x",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_n6-14760.php",
+  "name": "N6",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_turbo_6x_pro_5g-14711.php",
+  "name": "Turbo 6X Pro",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_turbo_6x_5g-14712.php",
+  "name": "Turbo 6X",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_nord_ce6_5g-14611.php",
+  "name": "Nord CE6",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_nord_ce6_lite_5g-14567.php",
+  "name": "Nord CE6 Lite",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_ace_6_ultra_5g-14637.php",
+  "name": "Ace 6 Ultra",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_nord_6_5g-14558.php",
+  "name": "Nord 6",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_15t_5g-14385.php",
+  "name": "15T",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_turbo_6_5g-14260.php",
+  "name": "Turbo 6",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_turbo_6v_5g-14404.php",
+  "name": "Turbo 6V",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_15r_5g-14358.php",
+  "name": "15R",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_ace_6t_5g-14315.php",
+  "name": "Ace 6T",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_15_5g-14206.php",
+  "name": "15",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_ace_6_5g-14259.php",
+  "name": "Ace 6",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_nord_5_5g-13992.php",
+  "name": "Nord 5",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_nord_ce5_5g-13792.php",
+  "name": "Nord CE5",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "oneplus_13s_5g-13818.php",
+  "name": "13s",
+  "source": "oneplus",
+  "brand": "OnePlus"
+ },
+ {
+  "path": "apple_iphone_16_pro_max-13123.php",
+  "name": "iPhone 16 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_16_pro-13315.php",
+  "name": "iPhone 16 Pro",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_16e-13395.php",
+  "name": "iPhone 16e",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_15_pro_max-12548.php",
+  "name": "iPhone 15 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_15_pro-12557.php",
+  "name": "iPhone 15 Pro",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_15_plus-12558.php",
+  "name": "iPhone 15 Plus",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_14_pro_max-11773.php",
+  "name": "iPhone 14 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_14_pro-11860.php",
+  "name": "iPhone 14 Pro",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_13_pro_max-11089.php",
+  "name": "iPhone 13 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_12_pro_max-10237.php",
+  "name": "iPhone 12 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_11_pro_max-9846.php",
+  "name": "iPhone 11 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_se_(2022)-11410.php",
+  "name": "iPhone SE (2022)",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_duo_fold-13804.php",
+  "name": "iPhone Duo",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_18_pro_max-14716.php",
+  "name": "iPhone 18 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_18_pro-14934.php",
+  "name": "iPhone 18 Pro",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_17e-14487.php",
+  "name": "iPhone 17e",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_17_pro_max-13964.php",
+  "name": "iPhone 17 Pro Max",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "apple_iphone_17_pro-14049.php",
+  "name": "iPhone 17 Pro",
+  "source": "apple",
+  "brand": "Apple iPhone"
+ },
+ {
+  "path": "tecno_phantom_x2_pro-12010.php",
+  "name": "Phantom X2 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_camon_30_pro-12846.php",
+  "name": "Camon 30 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_camon_30s-13426.php",
+  "name": "Camon 30S",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_camon_20_pro_5g-12255.php",
+  "name": "Camon 20 Pro 5G",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_30_pro-13357.php",
+  "name": "Spark 30 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_20_pro_5g-13124.php",
+  "name": "Spark 20 Pro 5G",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_20c-12710.php",
+  "name": "Spark 20C",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_pova_6_pro-12830.php",
+  "name": "Pova 6 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_pova_5_pro-12448.php",
+  "name": "Pova 5 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_pop_9_4g-13509.php",
+  "name": "Pop 9 4G",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_50s_5g-15015.php",
+  "name": "Spark 50s",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_50c-15016.php",
+  "name": "Spark 50c",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_camon_air-14919.php",
+  "name": "Camon Air",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_camon_slim_5g-14918.php",
+  "name": "Camon Slim",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_go_3_pro-14905.php",
+  "name": "Spark Go 3 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_pova_8_pro_5g-14875.php",
+  "name": "Pova 8 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_camon_slim-14745.php",
+  "name": "Camon Slim 4G",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_spark_50_pro-14728.php",
+  "name": "Spark 50 Pro",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_pova_8_5g-14714.php",
+  "name": "Pova 8",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "tecno_pop_x_5g-14608.php",
+  "name": "Pop X",
+  "source": "tecno",
+  "brand": "TECNO"
+ },
+ {
+  "path": "infinix_zero_40-13290.php",
+  "name": "Zero 40",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_zero_30_4g-12641.php",
+  "name": "Zero 30 4G",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_40_pro+-12874.php",
+  "name": "Note 40 Pro+",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_40s-13460.php",
+  "name": "Note 40S",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_30_pro-12273.php",
+  "name": "Note 30 Pro",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_hot_50_pro_4g-13461.php",
+  "name": "Hot 50 Pro 4G",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_hot_50_pro+_4g-13408.php",
+  "name": "Hot 50 Pro+ 4G",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_hot_40i-12731.php",
+  "name": "Hot 40i",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_smart_9_hd-13590.php",
+  "name": "Smart 9 HD",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_gt_20_pro-12962.php",
+  "name": "GT 20 Pro",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_hot_70_pro_5g-14806.php",
+  "name": "Hot 70 Pro",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_hot_70-14683.php",
+  "name": "Hot 70",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_gt_50_pro_5g-14497.php",
+  "name": "GT 50 Pro",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_60_ultra_5g-14528.php",
+  "name": "Note 60 Ultra",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_60_pro_5g-14499.php",
+  "name": "Note 60 Pro",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_60_5g-14498.php",
+  "name": "Note 60",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_smart_20-14502.php",
+  "name": "Smart 20",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_note_edge_5g-14421.php",
+  "name": "Note Edge",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_hot_60i_5g-14072.php",
+  "name": "Hot 60i",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "infinix_gt_30_5g-14044.php",
+  "name": "GT 30",
+  "source": "infinix",
+  "brand": "Infinix"
+ },
+ {
+  "path": "itel_s24-12917.php",
+  "name": "S24",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_s23+-12571.php",
+  "name": "S23+",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_s18_pro-12479.php",
+  "name": "S18 Pro",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a80-13343.php",
+  "name": "A80",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a70-12704.php",
+  "name": "A70",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a60s-12485.php",
+  "name": "A60s",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_p55+-12809.php",
+  "name": "P55+",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_p40+-12480.php",
+  "name": "P40+",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_power_70-13684.php",
+  "name": "Power 70",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_city_100-13853.php",
+  "name": "City 100",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a300+-15008.php",
+  "name": "A300+",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_zeno_300-14997.php",
+  "name": "Zeno 300",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_zeno_200-14998.php",
+  "name": "Zeno 200",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_zeno_100_pro-14999.php",
+  "name": "Zeno 100 Pro",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a300c-14956.php",
+  "name": "A300C",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a100cs-14816.php",
+  "name": "A100Cs",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_city_200s-14815.php",
+  "name": "City 200s",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_power_80-14814.php",
+  "name": "Power 80",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_a100_pro-14678.php",
+  "name": "A100 Pro",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "itel_zeno_100-14533.php",
+  "name": "Zeno 100",
+  "source": "itel",
+  "brand": "itel"
+ },
+ {
+  "path": "zte_axon_60_ultra-12929.php",
+  "name": "Axon 60 Ultra",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_axon_50_ultra-12228.php",
+  "name": "Axon 50 Ultra",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_a75_4g-13378.php",
+  "name": "Blade A75 4G",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_a55-13500.php",
+  "name": "Blade A55",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_v60_design-13377.php",
+  "name": "Blade V60 Design",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_nubia_z60_ultra_leading-13198.php",
+  "name": "nubia Z60 Ultra Leading",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_z50s_pro-12428.php",
+  "name": "nubia Z50S Pro",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_neo_3_gt-13710.php",
+  "name": "nubia Neo 3 GT",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_flip3_5g-14325.php",
+  "name": "nubia Flip3",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_music_2-13611.php",
+  "name": "nubia Music 2",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_redmagic_gaming_tablet_5_pro-14762.php",
+  "name": "RedMagic Astra 2",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_x1001-14525.php",
+  "name": "Blade X1001",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_v80_max-14449.php",
+  "name": "Blade V80 Max",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_v80_pro-14305.php",
+  "name": "Blade V80 Pro",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_v80_design-14291.php",
+  "name": "Blade V80 Design",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_a36-13966.php",
+  "name": "Blade A36",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_blade_a56-13948.php",
+  "name": "Blade A56",
+  "source": "zte",
+  "brand": "ZTE"
+ },
+ {
+  "path": "zte_nubia_a37e-15026.php",
+  "name": "nubia A37e",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_redmagic_12_pro+_5g_(china)-15013.php",
+  "name": "nubia RedMagic 12 Pro+",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_redmagic_12_pro_5g-15012.php",
+  "name": "nubia RedMagic 12 Pro",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_navix_ultra_5g-14946.php",
+  "name": "nubia NaviX Ultra",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_a57-14910.php",
+  "name": "nubia A57",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_a77_5g-14908.php",
+  "name": "nubia A77",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_a77-14909.php",
+  "name": "nubia A77 4G",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_neo_5_max_5g-14903.php",
+  "name": "nubia Neo 5 Max",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_air_pro_5g-14754.php",
+  "name": "nubia Air Pro",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_redmagic_11s_pro_5g-14669.php",
+  "name": "nubia RedMagic 11S Pro",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "zte_nubia_redmagic_11s_pro+_5g-14671.php",
+  "name": "nubia RedMagic 11S Pro+",
+  "source": "zte",
+  "brand": "Nubia"
+ },
+ {
+  "path": "motorola_edge_50_ultra-12919.php",
+  "name": "Edge 50 Ultra",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_50_pro-12909.php",
+  "name": "Edge 50 Pro",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_50_fusion-12871.php",
+  "name": "Edge 50 Fusion",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_razr_50_ultra-13150.php",
+  "name": "Razr 50 Ultra",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_razr_50-13151.php",
+  "name": "Razr 50",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g84-12526.php",
+  "name": "Moto G84",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g64-12925.php",
+  "name": "Moto G64",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g54-12543.php",
+  "name": "Moto G54",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g34-12759.php",
+  "name": "Moto G34",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_e14-13148.php",
+  "name": "Moto E14",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g_power_5g_(2026)-14359.php",
+  "name": "Moto G Power (2026)",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_70_neo_5g-15040.php",
+  "name": "Edge 70 Neo",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_signature_27_5g-14955.php",
+  "name": "Signature 27",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_70_plus_5g-14920.php",
+  "name": "Edge 70 Plus",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g_max_5g-14724.php",
+  "name": "Moto G Max",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_70_max_5g-14789.php",
+  "name": "Edge 70 Max",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g77_power_5g-14772.php",
+  "name": "Moto G77 Power",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_5g_(2026)-14705.php",
+  "name": "Edge (2026)",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_edge_70_pro+_5g-14702.php",
+  "name": "Edge 70 Pro+",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "motorola_moto_g87_5g-14644.php",
+  "name": "Moto G87",
+  "source": "motorola",
+  "brand": "Motorola"
+ },
+ {
+  "path": "nokia_xr21-12244.php",
+  "name": "XR21",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_x30-11831.php",
+  "name": "X30",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_g42-12381.php",
+  "name": "G42",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_g22-12137.php",
+  "name": "G22",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_c32-12139.php",
+  "name": "C32",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_c22-12138.php",
+  "name": "C22",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_300_charge-14895.php",
+  "name": "300 Charge",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_123_shield-14818.php",
+  "name": "123 Shield",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_235_4g_2nd_edition-14773.php",
+  "name": "235 4G (2026)",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_215_4g_2nd_edition-14774.php",
+  "name": "215 4G (2026)",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_210_4g-14775.php",
+  "name": "210 4G",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_200_4g-14776.php",
+  "name": "200 4G",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_110_power-14481.php",
+  "name": "110 Power",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_150_music-13688.php",
+  "name": "150 Music",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_130_music-13686.php",
+  "name": "130 Music",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_110_4g_2nd_edition-13584.php",
+  "name": "110 4G 2nd Edition",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_105_4g_2nd_edition-13583.php",
+  "name": "105 4G 2nd Edition",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_108_4g_(2024)-13482.php",
+  "name": "108 4G (2024)",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_110_4g_(2024)-13471.php",
+  "name": "110 4G (2024)",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "nokia_105_(2024)-13188.php",
+  "name": "105 (2024)",
+  "source": "nokia",
+  "brand": "Nokia"
+ },
+ {
+  "path": "lg_w41_pro-10742.php",
+  "name": "W41 Pro",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_w41+-10743.php",
+  "name": "W41+",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_w41-10744.php",
+  "name": "W41",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_w31+-10585.php",
+  "name": "W31+",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_w31-10586.php",
+  "name": "W31",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_w11-10587.php",
+  "name": "W11",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k92_5g-10564.php",
+  "name": "K92 5G",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k62-10464.php",
+  "name": "K62",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_q52-10558.php",
+  "name": "Q52",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k52-10463.php",
+  "name": "K52",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k42-10459.php",
+  "name": "K42",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k71-10458.php",
+  "name": "K71",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_wing_5g-10442.php",
+  "name": "Wing 5G",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k22-10597.php",
+  "name": "K22",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_q92_5g-10368.php",
+  "name": "Q92 5G",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_q31-10451.php",
+  "name": "Q31",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_k31-10382.php",
+  "name": "K31",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_velvet_5g_uw-10378.php",
+  "name": "Velvet 5G UW",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_q61-10257.php",
+  "name": "Q61",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "lg_stylo_6-10255.php",
+  "name": "Stylo 6",
+  "source": "lg",
+  "brand": "LG"
+ },
+ {
+  "path": "google_pixel_9_pro_xl-13217.php",
+  "name": "Pixel 9 Pro XL",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_9_pro-13218.php",
+  "name": "Pixel 9 Pro",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_9a-13478.php",
+  "name": "Pixel 9a",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_9_pro_fold-13220.php",
+  "name": "Pixel 9 Pro Fold",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_8a-12937.php",
+  "name": "Pixel 8a",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_8_pro-12545.php",
+  "name": "Pixel 8 Pro",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_8-12546.php",
+  "name": "Pixel 8",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_7a-12170.php",
+  "name": "Pixel 7a",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_7_pro-11908.php",
+  "name": "Pixel 7 Pro",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_7-11903.php",
+  "name": "Pixel 7",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_fold-12265.php",
+  "name": "Pixel Fold",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_6a-11229.php",
+  "name": "Pixel 6a",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_11_pro_fold-14874.php",
+  "name": "Pixel 11 Pro Fold",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_11_pro_xl_5g-14800.php",
+  "name": "Pixel 11 Pro XL",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_11_pro_5g-14801.php",
+  "name": "Pixel 11 Pro",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_11_5g-14799.php",
+  "name": "Pixel 11",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_10a_5g-14474.php",
+  "name": "Pixel 10a",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_10_pro_fold-14014.php",
+  "name": "Pixel 10 Pro Fold",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_10_pro_xl_5g-13988.php",
+  "name": "Pixel 10 Pro XL",
+  "source": "google",
+  "brand": "Google Pixel"
+ },
+ {
+  "path": "google_pixel_10_pro_5g-13987.php",
+  "name": "Pixel 10 Pro",
+  "source": "google",
+  "brand": "Google Pixel"
+ }
+]
