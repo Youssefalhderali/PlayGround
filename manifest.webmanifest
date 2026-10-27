@@ -1,0 +1,26 @@
+{
+  "name": "BRXVIH — صيانة وبرمجة الهواتف",
+  "short_name": "BRXVIH",
+  "description": "مرجع تقني يمني لموديلات الهواتف، أسعار الشاشات، السوفت وير، الأعطال، الأدوات، والأمن السيبراني.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070708",
+  "theme_color": "#070707",
+  "icons": [
+    {
+      "src": "assets/img/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

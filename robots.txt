@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omgithub.com/Youssefalhderali/PlayGround/sitemap.xml

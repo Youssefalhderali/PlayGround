@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="brxvih | يوسف الهدار">
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="20%" r="90%">
+      <stop offset="0" stop-color="#202127"/>
+      <stop offset="1" stop-color="#08080a"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="30" y1="20" x2="210" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dcff3f"/>
+      <stop offset="1" stop-color="#7fbf00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="118" fill="url(#bg)" stroke="#2c2d34" stroke-width="2"/>
+  <circle cx="120" cy="120" r="99" fill="none" stroke="url(#ring)" stroke-width="1.5" stroke-dasharray="2 7" opacity=".8"/>
+  <circle cx="120" cy="120" r="86" fill="#0d0d10" stroke="#303138" stroke-width="1"/>
+  <path d="M78 78h38c19 0 31 9 31 24 0 10-5 17-14 21 12 3 19 11 19 22 0 18-13 27-34 27H78V78Zm21 17v21h17c9 0 14-4 14-10 0-7-5-11-14-11h-17Zm0 37v23h19c10 0 15-4 15-11 0-8-5-12-15-12h-19Z" fill="url(#ring)"/>
+  <text x="120" y="200" text-anchor="middle" font-family="'Space Grotesk', monospace" font-size="15" letter-spacing="5" fill="#f4f4f5">BRXVIH</text>
+  <circle cx="189" cy="68" r="5" fill="#dcff3f"/>
+  <circle cx="51" cy="170" r="3" fill="#dcff3f" opacity=".7"/>
+  <path d="M189 68h16M51 170h-16" stroke="#dcff3f" stroke-width="1.4" opacity=".6"/>
+</svg>
