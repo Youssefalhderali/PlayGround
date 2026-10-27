@@ -14,9 +14,9 @@ import { phoneDisplayName, phoneShortName } from '../lib/phone'
 import { Badge, BrandMark, Button, Card, DeviceVisual, SectionHeader, Stat } from '../components/ui'
 import { ArticleCard, PhoneCard } from '../components/cards'
 import { cn, formatPrice, whatsappLink } from '../lib/utils'
-import type { Currency } from '../types'
+import type { Currency, Phone, ScreenPrice } from '../types'
 
-const heroChips = ['Galaxy S24 Ultra', 'SM-S928B', 'Redmi Note 13 Pro', 'Pixel 8 Pro', 'Odin', 'بطارية']
+
 
 function HeroDevice({ name, brand, accent }: { name: string; brand: string; accent?: string }) {
   return (
@@ -45,6 +45,7 @@ function HeroDevice({ name, brand, accent }: { name: string; brand: string; acce
 
 export default function Home() {
   const { data, t, lang } = useStore()
+  const heroChips = ['Galaxy S24 Ultra', 'SM-S928B', 'Redmi Note 13 Pro', 'Pixel 8 Pro', 'Odin', t('common.battery')]
   const navigate = useNavigate()
   const [query, setQuery] = useState('')
   const [currency] = useState<Currency>('YER')
@@ -63,8 +64,8 @@ export default function Home() {
   const guideCount = data.articles.filter(a => a.publishStatus === 'published').length + faultGuides.length
   const heroPhone = featured[0]
   const verifiedPrices = useMemo(() => data.screenPrices.filter(p => p.publishStatus === 'published' && p.status === 'verified' && p.price), [data.screenPrices])
-  const priceRows = useMemo(() => {
-    const rows = verifiedPrices.slice(0, 5).map(pr => ({ pr, phone: publishedPhones.find(p => p.id === pr.phoneId) }))
+  const priceRows = useMemo<{ pr: ScreenPrice | null; phone: Phone | undefined }[]>(() => {
+    const rows: { pr: ScreenPrice | null; phone: Phone | undefined }[] = verifiedPrices.slice(0, 5).map(pr => ({ pr, phone: publishedPhones.find(p => p.id === pr.phoneId) }))
     if (rows.length >= 5) return rows
     const used = new Set(rows.map(r => r.phone?.id))
     for (const p of publishedPhones) {

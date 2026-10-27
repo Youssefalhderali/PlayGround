@@ -109,9 +109,9 @@ export const requestStatusLabel = (s: RequestStatus, lang: Lang) => ({
 
 export const requestStatusTone = (s: RequestStatus) => ({
   new: 'info', review: 'warn', 'in-progress': 'accent', 'waiting-parts': 'warn', done: 'ok', cancelled: 'muted',
-}[s])
+} as const)[s]
 
-export const qualityTone = (status: string) => status === 'verified' ? 'ok' : status === 'review' ? 'warn' : 'muted'
+export const qualityTone = (status: string) => status === 'verified' ? 'ok' as const : status === 'review' ? 'warn' as const : 'muted' as const
 
 export const average = (nums: number[]) => nums.length ? nums.reduce((a, b) => a + b, 0) / nums.length : 0
 

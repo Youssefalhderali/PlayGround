@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>./</loc><priority>1.0</priority></url>
+  <url><loc>./#/phones</loc><priority>0.9</priority></url>
+  <url><loc>./#/screens</loc><priority>0.8</priority></url>
+  <url><loc>./#/parts</loc><priority>0.8</priority></url>
+  <url><loc>./#/firmware</loc><priority>0.9</priority></url>
+  <url><loc>./#/tools</loc><priority>0.7</priority></url>
+  <url><loc>./#/maintenance</loc><priority>0.8</priority></url>
+  <url><loc>./#/programming</loc><priority>0.7</priority></url>
+  <url><loc>./#/cybersecurity</loc><priority>0.7</priority></url>
+  <url><loc>./#/faults</loc><priority>0.7</priority></url>
+  <url><loc>./#/articles</loc><priority>0.8</priority></url>
+  <url><loc>./#/requests</loc><priority>0.6</priority></url>
+  <url><loc>./#/contact</loc><priority>0.6</priority></url>
+  <url><loc>./#/sources</loc><priority>0.5</priority></url>
+</urlset>

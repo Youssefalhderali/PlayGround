@@ -90,7 +90,7 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
   const [ready, setReady] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [lang, setLangState] = useState<Lang>(() => readStored<Lang>('brx-lang', 'ar'))
-  const [theme, setThemeState] = useState<Theme>(() => readStored<Theme>('brx-theme', 'dark'))
+  const [theme, setThemeState] = useState<Theme>(() => readStored<Theme>('brx-theme', 'light'))
   const [toasts, setToasts] = useState<Toast[]>([])
   const [adminUnlocked, setAdminUnlocked] = useState(() => sessionStorage.getItem('brx-admin-session') === '1')
   const [isFirstRun, setIsFirstRun] = useState(false)
@@ -134,7 +134,7 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
     document.documentElement.style.colorScheme = theme
     localStorage.setItem('brx-theme', JSON.stringify(theme))
     const meta = document.querySelector('meta[name="theme-color"]')
-    if (meta) meta.setAttribute('content', theme === 'dark' ? '#07090b' : '#f5f5f2')
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#171814' : '#f6f5f0')
   }, [theme])
 
   const t = useCallback((key: TranslationKey, vars?: Record<string, string | number>) => translate(lang, key, vars), [lang])

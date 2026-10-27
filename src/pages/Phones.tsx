@@ -39,7 +39,7 @@ export default function Phones() {
     const list = published.filter(p => !brand || p.brand === brand).map(p => p.series).filter(Boolean)
     return Array.from(new Set(list)).sort()
   }, [published, brand])
-  const years = useMemo(() => Array.from(new Set(published.map(p => p.year).filter(Boolean))).sort((a, b) => (b || 0) - (a || 0)), [published])
+  const years = useMemo(() => Array.from(new Set(published.map(p => p.year).filter((y): y is number => typeof y === 'number'))).sort((a, b) => b - a), [published])
 
   const filtered = useMemo(() => {
     const q = normalize(query)

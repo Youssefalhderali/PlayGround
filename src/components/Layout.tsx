@@ -12,6 +12,7 @@ import { globalSearch } from '../lib/search'
 import { useKeyboardShortcut, useReveal, useScrollTop } from '../lib/hooks'
 import type { SearchHit } from '../types'
 import { Badge } from './ui'
+import { InstallButton } from './InstallButton'
 
 export function Logo({ compact = false }: { compact?: boolean }) {
   return (
@@ -235,6 +236,7 @@ function MobileDrawer({ open, onClose, onSearch }: { open: boolean; onClose: () 
           <a href={whatsappLink('مرحبًا brxvih، أحتاج مساعدة تقنية.')} target="_blank" rel="noopener noreferrer" className="btn btn-outline btn-md">
             <MessageCircle size={17} />{t('contact.whatsapp')}
           </a>
+          <InstallButton className="drawer-install" />
           <Link to="/admin" className="drawer-admin"><LockKeyhole size={14} />{t('nav.admin')}</Link>
         </div>
       </aside>
@@ -258,7 +260,7 @@ function Header({ onSearch }: { onSearch: () => void }) {
         <div className="container topbar-inner">
           <div className="topbar-left">
             <span className="topbar-live"><span className="live-dot" />{lang === 'ar' ? 'اليمن — خدمة تقنية' : 'Yemen — technical service'}</span>
-            <a href={phoneHref()} className="topbar-link"><Phone size={12} />{PHONE}</a>
+            <a href={phoneHref()} className="topbar-link" dir="ltr"><Phone size={12} />{PHONE}</a>
           </div>
           <div className="topbar-right">
             <span className="topbar-brand">WHITE BLACK</span>
@@ -299,6 +301,7 @@ function Header({ onSearch }: { onSearch: () => void }) {
               <span>{t('common.search')}</span>
               <kbd>⌘K</kbd>
             </button>
+            <InstallButton compact className="header-install" />
             <ThemeLangControls />
             <Link to="/requests" className="btn btn-primary btn-sm header-cta">
               <Wrench size={15} />{t('nav.requests')}
@@ -365,7 +368,7 @@ function Footer() {
             <Logo />
             <p>{t('footer.about')}</p>
             <div className="footer-contact">
-              <a href={whatsappLink('مرحبًا brxvih')} target="_blank" rel="noopener noreferrer"><MessageCircle size={16} />+967 777 066 424</a>
+              <a href={whatsappLink('مرحبًا brxvih')} target="_blank" rel="noopener noreferrer" dir="ltr"><MessageCircle size={16} />+967 777 066 424</a>
               <span><MapPin size={16} />{t('contact.locationValue')}</span>
             </div>
             <div className="footer-badges">
@@ -398,6 +401,7 @@ function Footer() {
             <Link to="/terms">{t('footer.terms')}</Link>
             <Link to="/contact">{t('nav.contact')}</Link>
             <Link to="/admin">{t('nav.admin')}</Link>
+            <InstallButton className="footer-install" />
             <a href="/sitemap.xml" target="_blank" rel="noopener noreferrer">sitemap.xml <ExternalLink size={12} /></a>
           </div>
         </div>

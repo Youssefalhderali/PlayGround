@@ -1,4 +1,5 @@
-import React, { createPortal } from 'react'
+import React from 'react'
+import { createPortal } from 'react-dom'
 import { X, Loader2, ChevronDown } from 'lucide-react'
 import { cn } from '../lib/utils'
 import type { Brand } from '../types'
@@ -26,7 +27,7 @@ export function Button({
 
 export function Badge({ children, tone = 'default', dot = false, className }: {
   children: React.ReactNode
-  tone?: 'default' | 'info' | 'ok' | 'warn' | 'danger' | 'accent' | 'muted'
+  tone?: 'default' | 'info' | 'ok' | 'warn' | 'danger' | 'accent' | 'muted' | 'lime'
   dot?: boolean
   className?: string
 }) {
@@ -56,24 +57,26 @@ export function SectionHeader({ eyebrow, title, lead, actions, align = 'start' }
   )
 }
 
-export function EmptyState({ icon, title, note, action }: { icon?: React.ReactNode; title: string; note?: string; action?: React.ReactNode }) {
+export function EmptyState({ icon, title, note, text, action }: { icon?: React.ReactNode; title: string; note?: string; text?: string; action?: React.ReactNode }) {
+  const body = note || text
   return (
     <div className="empty-state">
       {icon && <div className="empty-icon">{icon}</div>}
       <h3>{title}</h3>
-      {note && <p>{note}</p>}
+      {body && <p>{body}</p>}
       {action}
     </div>
   )
 }
 
-export function Modal({ open, onClose, title, children, footer, size = 'md' }: {
+export function Modal({ open, onClose, title, children, footer, size = 'md', wide = false }: {
   open: boolean
   onClose: () => void
   title: string
   children: React.ReactNode
   footer?: React.ReactNode
   size?: 'sm' | 'md' | 'lg' | 'xl'
+  wide?: boolean
 }) {
   React.useEffect(() => {
     if (!open) return
@@ -86,7 +89,7 @@ export function Modal({ open, onClose, title, children, footer, size = 'md' }: {
   if (!open) return null
   return createPortal(
     <div className="modal-backdrop" role="presentation" onMouseDown={e => { if (e.target === e.currentTarget) onClose() }}>
-      <div className={cn('modal', `modal-${size}`)} role="dialog" aria-modal="true" aria-label={title}>
+      <div className={cn('modal', `modal-${wide ? 'xl' : size}`)} role="dialog" aria-modal="true" aria-label={title}>
         <div className="modal-head">
           <h2>{title}</h2>
           <button className="icon-btn" onClick={onClose} aria-label="Close"><X size={20} /></button>
@@ -98,14 +101,15 @@ export function Modal({ open, onClose, title, children, footer, size = 'md' }: {
   )
 }
 
-export function Field({ label, hint, required, children, className }: {
-  label: string; hint?: string; required?: boolean; children: React.ReactNode; className?: string
+export function Field({ label, hint, required, children, className, error }: {
+  label: string; hint?: string; required?: boolean; children: React.ReactNode; className?: string; error?: string
 }) {
   return (
-    <label className={cn('field', className)}>
+    <label className={cn('field', className, error && 'has-error')}>
       <span className="field-label">{label}{required && <em>*</em>}</span>
       {children}
       {hint && <span className="field-hint">{hint}</span>}
+      {error && <span className="field-error">{error}</span>}
     </label>
   )
 }
@@ -199,17 +203,21 @@ export function Skeleton({ className }: { className?: string }) {
   return <span className={cn('skeleton', className)} aria-hidden />
 }
 
-export function PageHero({ eyebrow, title, lead, actions, aside }: {
-  eyebrow?: string; title: React.ReactNode; lead?: string; actions?: React.ReactNode; aside?: React.ReactNode
+export function PageHero({ eyebrow, title, lead, actions, aside, icon, meta }: {
+  eyebrow?: string; title: React.ReactNode; lead?: string; actions?: React.ReactNode; aside?: React.ReactNode; icon?: React.ReactNode; meta?: React.ReactNode
 }) {
   return (
     <header className="page-hero">
       <div className="page-hero-grid" aria-hidden />
       <div className="container page-hero-inner">
         <div className="page-hero-copy">
-          {eyebrow && <div className="eyebrow">{eyebrow}</div>}
+          <div className="page-hero-kicker">
+            {icon && <span className="page-hero-icon">{icon}</span>}
+            {eyebrow && <div className="eyebrow">{eyebrow}</div>}
+          </div>
           <h1>{title}</h1>
           {lead && <p>{lead}</p>}
+          {meta && <div className="page-hero-meta">{meta}</div>}
           {actions && <div className="page-hero-actions">{actions}</div>}
         </div>
         {aside && <div className="page-hero-aside">{aside}</div>}
